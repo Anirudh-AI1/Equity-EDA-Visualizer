@@ -16,7 +16,7 @@ Bar chart comparing the mean percentage return across assets.
 
 ### 3. Average Daily Volatility
 Bar chart comparing the standard deviation (risk) of each asset.
-![Average Daily Volatility](volatility.png)
+![Average Daily Volatility](daily_volatility.png)
 
 ### 4. Risk v/s Return Scatter Plot
 The core analytical chart plotting each ticker on an X/Y axis of Volatility vs. Return, complete with mean baselines to quickly identify optimal risk-adjusted assets.
