@@ -8,11 +8,11 @@ Running this script generates a sequence of 5 core EDA charts:
 
 ### 1. Stock Price Trend
 Adjusted closing prices over the selected timeframe.
-![Stock Price Trend](trend.png)
+![Stock Price Trend](trend.png.png)
 
 ### 2. Average Daily Return
 Bar chart comparing the mean percentage return across assets.
-![Average Daily Return](return.png)
+![Average Daily Return](return.png.png)
 
 ### 3. Average Daily Volatility
 Bar chart comparing the standard deviation (risk) of each asset.
@@ -20,11 +20,11 @@ Bar chart comparing the standard deviation (risk) of each asset.
 
 ### 4. Risk v/s Return Scatter Plot
 The core analytical chart plotting each ticker on an X/Y axis of Volatility vs. Return, complete with mean baselines to quickly identify optimal risk-adjusted assets.
-![Risk vs Return](rr.png)
+![Risk vs Return](rr.png.png)
 
 ### 5. Volume Period
 Daily trading volume trends to identify liquidity spikes.
-![Volume Period](vol.png)
+![Volume Period](vol.png.png)
 
 ## Tech Stack
 * **Language:** Python
